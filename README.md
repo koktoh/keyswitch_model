@@ -5,6 +5,12 @@ WRL file can use in KiCad.
 
 # Contents
 
+## Socket
+- Choc
+- MX
+
+## Keyswitch
+
 - Kailh Choc V1
   + Black
   + Brown
