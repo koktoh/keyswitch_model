@@ -5,10 +5,6 @@ WRL file can use in KiCad.
 
 # Contents
 
-## Socket
-- Choc
-- MX
-
 ## Keyswitch
 
 - Kailh Choc V1
@@ -18,6 +14,14 @@ WRL file can use in KiCad.
   + White
   + Red Pro
   + Sunset Tactile
+
+- Kailh Choc V2
+  + Red
+  + Blue
+
+## Socket
+- Choc
+- MX
 
 # License
 
