@@ -23,6 +23,17 @@ WRL file can use in KiCad.
 - Choc
 - MX
 
+## Stabilizer
+
+- Screw-in
+  + Based on `Mekanisk Keyboard Stabilisers V2`
+    - 2U
+    - 3U
+    - 6U
+    - 6.25U
+    - 7U
+    - 10U
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
