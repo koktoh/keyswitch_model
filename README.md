@@ -19,6 +19,9 @@ WRL file can use in KiCad.
   + Red
   + Blue
 
+- MX
+  + Silent Alpaca
+
 ## Socket
 - Choc
 - MX
