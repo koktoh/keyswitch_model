@@ -28,6 +28,9 @@ WRL file can use in KiCad.
 
 ## Stabilizer
 
+- Choc
+  + 2U
+  + 5.25U
 - Screw-in
   + Based on `Mekanisk Keyboard Stabilisers V2`
     - 2U
