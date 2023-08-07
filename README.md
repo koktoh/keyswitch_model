@@ -31,6 +31,13 @@ WRL file can use in KiCad.
 - Choc
   + 2U
   + 5.25U
+- Plate-mount
+  + 2U
+  + 3U
+  + 6U
+  + 6.25U
+  + 7U
+  + 10U
 - Screw-in
   + Based on `Mekanisk Keyboard Stabilisers V2`
     - 2U
