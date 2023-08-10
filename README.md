@@ -46,6 +46,14 @@ WRL file can use in KiCad.
     - 6.25U
     - 7U
     - 10U
+- Snap-in
+  + 2U
+  + 3U
+  + 6U
+  + 6.25U
+  + 7U
+  + 10U
+
 
 # License
 
