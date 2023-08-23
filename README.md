@@ -18,6 +18,7 @@ WRL file can use in KiCad.
 - Kailh Choc V2
   + Red
   + Blue
+  + Brown
 
 - MX
   + Silent Alpaca
