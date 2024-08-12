@@ -19,6 +19,8 @@ WRL file can use in KiCad.
   + Red
   + Blue
   + Brown
+  + Lofree
+    - Wizard
 
 - MX
   + Silent Alpaca
